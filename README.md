@@ -10,7 +10,7 @@
 **Background in:** Python.
 
 **Links:**
-https://www.linkedin.com/in/rafael-machado-de-almeida-a47ab7182/
+* [Linkedin](https://www.linkedin.com/in/rafael-machado-de-almeida-a47ab7182/)
 * [Medium](https://medium.com/@rmalmeida2)
 
 
