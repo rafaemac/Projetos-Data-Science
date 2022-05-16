@@ -15,3 +15,4 @@ https://www.linkedin.com/in/rafael-machado-de-almeida-a47ab7182/
 
 
 ## Projetos:
+Análise de Dados do Airbnb - Santiago, Chile
