@@ -15,4 +15,4 @@
 
 
 ## Projetos:
-* [Análise de Dados do Airbnb - Santiago, Chile](https://github.com/rafaemac/Projetos-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Santiago%2C_Chile.ipynb)
+* [Análise de Dados do Airbnb - Santiago, Chile](https://github.com/rafaemac/Projetos-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Santiago_Chile.ipynb)
