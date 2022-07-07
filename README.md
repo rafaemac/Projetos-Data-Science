@@ -16,4 +16,4 @@
 
 ## Projetos:
 * [Análise de Dados do Airbnb - Santiago, Chile](https://github.com/rafaemac/Projetos-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Santiago_Chile.ipynb)
-* [Panorama do COVID-19 no Brasil e no Mundo ]
+* [Panorama do COVID-19 no Brasil e no Mundo ](https://github.com/rafaemac/Projetos-Data-Science/blob/main/Panorama_do_COVID_19.ipynb)
